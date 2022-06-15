@@ -1,0 +1,45 @@
+{
+  "name": "0xDefi Default",
+  "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+  "keywords": ["avalanche", "defi", "joe", "trader joe"],
+  "version": {
+    "major": 85,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8080,
+      "address": "0x80d93ee0878ad43785affe30971122e448e858fb",
+      "decimals": 18,
+      "name": "0xDefi Token",
+      "symbol": "0XDT",
+      "logoURI": ""
+    },
+    {
+      "chainId": 8080,
+      "address": "0xe25F569887395dD51F87Fa828Cb74109a8aC3387",
+      "decimals": 18,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": ""
+    },
+    {
+      "chainId": 8080,
+      "address": "0x9b7D22F04710ea6911f696412272C13b4CE9E55a",
+      "decimals": 18,
+      "name": "Circle USD",
+      "symbol": "USDC",
+      "logoURI": ""
+    },
+    {
+      "chainId": 8080,
+      "address": "0x8FF27A6AFFB4599Ea1030954b46b3B6BeAD09e62",
+      "decimals": 18,
+      "name": "Wrapped SHM",
+      "symbol": "WSHM",
+      "logoURI": ""
+    }
+  ],
+  "timestamp": "2021-05-24T00:00:00+00:00"
+}
