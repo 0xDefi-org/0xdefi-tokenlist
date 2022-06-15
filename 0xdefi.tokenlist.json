@@ -1,9 +1,9 @@
 {
   "name": "0xDefi Default",
-  "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-  "keywords": ["avalanche", "defi", "joe", "trader joe"],
+  "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x80d93ee0878ad43785affe30971122e448e858fb/logo.png",
+  "keywords": ["alphanet", "defi", "0xdefi", "trader"],
   "version": {
-    "major": 85,
+    "major": 1,
     "minor": 0,
     "patch": 0
   },
@@ -14,7 +14,7 @@
       "decimals": 18,
       "name": "0xDefi Token",
       "symbol": "0XDT",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x80d93ee0878ad43785affe30971122e448e858fb/logo.png"
     },
     {
       "chainId": 8080,
@@ -22,7 +22,7 @@
       "decimals": 18,
       "name": "Tether USD",
       "symbol": "USDT",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0xe25F569887395dD51F87Fa828Cb74109a8aC3387/logo.png"
     },
     {
       "chainId": 8080,
@@ -30,7 +30,7 @@
       "decimals": 18,
       "name": "Circle USD",
       "symbol": "USDC",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x9b7D22F04710ea6911f696412272C13b4CE9E55a/logo.png"
     },
     {
       "chainId": 8080,
@@ -38,8 +38,8 @@
       "decimals": 18,
       "name": "Wrapped SHM",
       "symbol": "WSHM",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x8FF27A6AFFB4599Ea1030954b46b3B6BeAD09e62/logo.png"
     }
   ],
-  "timestamp": "2021-05-24T00:00:00+00:00"
+  "timestamp": "2022"
 }
