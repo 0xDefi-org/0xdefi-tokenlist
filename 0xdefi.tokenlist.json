@@ -10,27 +10,27 @@
   "tokens": [
     {
       "chainId": 8080,
-      "address": "0x80d93ee0878ad43785affe30971122e448e858fb",
+      "address": "0x0EcF95d4B072341f24D485F39dB52eA1d6150815",
       "decimals": 18,
       "name": "0xDefi Token",
       "symbol": "0XDT",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x80d93ee0878ad43785affe30971122e448e858fb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x0EcF95d4B072341f24D485F39dB52eA1d6150815/logo.png"
     },
     {
       "chainId": 8080,
-      "address": "0xe25F569887395dD51F87Fa828Cb74109a8aC3387",
+      "address": "0x07a3E17fF8ccC6926751A1bd219A666174968B84",
       "decimals": 18,
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0xe25F569887395dD51F87Fa828Cb74109a8aC3387/logo.png"
+      "name": "Test Tether USD",
+      "symbol": "Test USDT",
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x07a3E17fF8ccC6926751A1bd219A666174968B84/logo.png"
     },
     {
       "chainId": 8080,
-      "address": "0x9b7D22F04710ea6911f696412272C13b4CE9E55a",
+      "address": "0xD8Af3e3FFc3e5f505D7f45669862348117E97cB4",
       "decimals": 18,
-      "name": "Circle USD",
-      "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x9b7D22F04710ea6911f696412272C13b4CE9E55a/logo.png"
+      "name": "Test Circle USD",
+      "symbol": "Test USDC",
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0xD8Af3e3FFc3e5f505D7f45669862348117E97cB4/logo.png"
     },
     {
       "chainId": 8080,
