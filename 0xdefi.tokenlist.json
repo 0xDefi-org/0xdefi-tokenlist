@@ -5,7 +5,7 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   },
   "tokens": [
     {
@@ -20,8 +20,8 @@
       "chainId": 8080,
       "address": "0x4B6Dfb67BfcBC6676797161838Ca29a44b4143d9",
       "decimals": 18,
-      "name": "0xDefi Token",
-      "symbol": "0XDT",
+      "name": "0x Test Token",
+      "symbol": "0TEST",
       "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x4B6Dfb67BfcBC6676797161838Ca29a44b4143d9/logo.png"
     },
     {
@@ -51,5 +51,5 @@
 
    
   ],
-  "timestamp": "2022-06-18T14:11:00+00:00"
+  "timestamp": "2022-06-18T14:14:00+00:00"
 }
