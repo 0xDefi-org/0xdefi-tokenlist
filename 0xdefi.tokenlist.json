@@ -5,16 +5,16 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 2
+    "patch": 4
   },
   "tokens": [
     {
       "chainId": 8080,
-      "address": "0x0EcF95d4B072341f24D485F39dB52eA1d6150815",
+      "address": "0xAdb1bE4cd4DbbCA7fDc960ED1FA7553314C5CbAa",
       "decimals": 18,
       "name": "0xDefi Token",
       "symbol": "0XDT",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x0EcF95d4B072341f24D485F39dB52eA1d6150815/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0xAdb1bE4cd4DbbCA7fDc960ED1FA7553314C5CbAa/logo.png"
     },
     {
       "chainId": 8080,
@@ -26,30 +26,30 @@
     },
     {
       "chainId": 8080,
-      "address": "0x07a3E17fF8ccC6926751A1bd219A666174968B84",
+      "address": "0x6d0C679DaC4F1fb9A5134dEB0b172AEF00d91e65",
       "decimals": 18,
       "name": "Test Tether USD",
       "symbol": "tUSDT",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x07a3E17fF8ccC6926751A1bd219A666174968B84/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x6d0C679DaC4F1fb9A5134dEB0b172AEF00d91e65/logo.png"
     },
     {
       "chainId": 8080,
-      "address": "0xD8Af3e3FFc3e5f505D7f45669862348117E97cB4",
+      "address": "0x12Ab405dfBDDfC37B1150671C6599D637D21E1d6",
       "decimals": 18,
       "name": "Test Circle USD",
       "symbol": "tUSDC",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0xD8Af3e3FFc3e5f505D7f45669862348117E97cB4/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x12Ab405dfBDDfC37B1150671C6599D637D21E1d6/logo.png"
     },
     {
       "chainId": 8080,
-      "address": "0x8FF27A6AFFB4599Ea1030954b46b3B6BeAD09e62",
+      "address": "0x785A3deAeD1deD9Bd4c2309A856CCb1C0eFa1052",
       "decimals": 18,
       "name": "Wrapped SHM",
       "symbol": "WSHM",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x8FF27A6AFFB4599Ea1030954b46b3B6BeAD09e62/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x785A3deAeD1deD9Bd4c2309A856CCb1C0eFa1052/logo.png"
     }
 
    
   ],
-  "timestamp": "2022-06-18T14:14:00+00:00"
+  "timestamp": "2022-07-01T4:19:00+00:00"
 }
