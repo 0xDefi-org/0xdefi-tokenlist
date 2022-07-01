@@ -18,14 +18,6 @@
     },
     {
       "chainId": 8080,
-      "address": "0x4B6Dfb67BfcBC6676797161838Ca29a44b4143d9",
-      "decimals": 18,
-      "name": "0x Test Token",
-      "symbol": "0TEST",
-      "logoURI": "https://raw.githubusercontent.com/0xDefi-org/0xdefi-tokenlist/main/logos/0x4B6Dfb67BfcBC6676797161838Ca29a44b4143d9/logo.png"
-    },
-    {
-      "chainId": 8080,
       "address": "0x6d0C679DaC4F1fb9A5134dEB0b172AEF00d91e65",
       "decimals": 18,
       "name": "Test Tether USD",
